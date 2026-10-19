@@ -29,7 +29,7 @@ public class PlayerScript : MonoBehaviour
     public float scoreTimer;
 
     //This is the current player health
-    public int Health = 5;
+    public int Health = 20;
     
     //Float to track cooldown time for the dash
     public float dashTimer = 0f;
