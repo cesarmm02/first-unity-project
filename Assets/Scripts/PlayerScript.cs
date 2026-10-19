@@ -105,22 +105,22 @@ public class PlayerScript : MonoBehaviour
         
         //Then we use if statement to figure out what that variable should look like
         //If I hold the right arrow key, the player should move right. . .
-        if (Keyboard.current.rightArrowKey.isPressed)
+        if (Keyboard.current.rightArrowKey.isPressed || Keyboard.current.dKey.isPressed)
         {
             vel.x = currentSpeed;
         }
         //If I hold the left arrow, the player should move left. . .
-        if (Keyboard.current.leftArrowKey.isPressed)
+        if (Keyboard.current.leftArrowKey.isPressed || Keyboard.current.aKey.isPressed)
         {
             vel.x = -currentSpeed;
         }
         //If I hold the up arrow, the player should move up. . .
-        if (Keyboard.current.upArrowKey.isPressed)
+        if (Keyboard.current.upArrowKey.isPressed || Keyboard.current.wKey.isPressed)
         {
             vel.y = currentSpeed;
         }
         //If I hold the down arrow, the player should move down. . .
-        if (Keyboard.current.downArrowKey.isPressed)
+        if (Keyboard.current.downArrowKey.isPressed || Keyboard.current.sKey.isPressed)
         {
             vel.y = -currentSpeed;
         }
