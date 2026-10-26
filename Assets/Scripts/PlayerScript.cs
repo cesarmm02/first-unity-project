@@ -36,6 +36,7 @@ public class PlayerScript : MonoBehaviour
     public float dashReset = 0f;
 
 
+
     //Start automatically gets triggered once when the objects turns on/the game starts
     void Start()
     {
@@ -148,6 +149,8 @@ public class PlayerScript : MonoBehaviour
             scoreTimer = 0;
         }
     }
+
+    
 
     //This gets called whenever you bump into another object, like a wall or coin.
     private void OnCollisionEnter2D(Collision2D other)
