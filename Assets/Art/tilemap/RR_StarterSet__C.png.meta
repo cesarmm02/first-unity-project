@@ -1,0 +1,7410 @@
+fileFormatVersion: 2
+guid: 51ebb396ef52e4b4182d20e7079b41f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1468945029296517396
+    second: RR_StarterSet__C_0
+  - first:
+      213: 894276014135545453
+    second: RR_StarterSet__C_1
+  - first:
+      213: 3749933904349429295
+    second: RR_StarterSet__C_2
+  - first:
+      213: 1215059917606508921
+    second: RR_StarterSet__C_3
+  - first:
+      213: -6550160234602053842
+    second: RR_StarterSet__C_4
+  - first:
+      213: 8348295135973827669
+    second: RR_StarterSet__C_5
+  - first:
+      213: -5089789605601060402
+    second: RR_StarterSet__C_6
+  - first:
+      213: 5853304643009984390
+    second: RR_StarterSet__C_7
+  - first:
+      213: -4675063846255972381
+    second: RR_StarterSet__C_8
+  - first:
+      213: 2122340627355460598
+    second: RR_StarterSet__C_9
+  - first:
+      213: 5899036842596552422
+    second: RR_StarterSet__C_10
+  - first:
+      213: -4161627915143588493
+    second: RR_StarterSet__C_11
+  - first:
+      213: 180086788583275935
+    second: RR_StarterSet__C_12
+  - first:
+      213: -7803618651209020484
+    second: RR_StarterSet__C_13
+  - first:
+      213: -1579343177756401829
+    second: RR_StarterSet__C_14
+  - first:
+      213: -6862460984130089218
+    second: RR_StarterSet__C_15
+  - first:
+      213: -4437572748653068879
+    second: RR_StarterSet__C_16
+  - first:
+      213: 9061556764835902372
+    second: RR_StarterSet__C_17
+  - first:
+      213: -4529171732659337016
+    second: RR_StarterSet__C_18
+  - first:
+      213: -2262119734146054800
+    second: RR_StarterSet__C_19
+  - first:
+      213: -757851574517252837
+    second: RR_StarterSet__C_20
+  - first:
+      213: -6950428324423394249
+    second: RR_StarterSet__C_21
+  - first:
+      213: -8947732023682338222
+    second: RR_StarterSet__C_22
+  - first:
+      213: 5586074887153524003
+    second: RR_StarterSet__C_23
+  - first:
+      213: -4036693125311068626
+    second: RR_StarterSet__C_24
+  - first:
+      213: 8082957744016853504
+    second: RR_StarterSet__C_25
+  - first:
+      213: -1504152727229019405
+    second: RR_StarterSet__C_26
+  - first:
+      213: -360299842041394852
+    second: RR_StarterSet__C_27
+  - first:
+      213: 8945550403283999953
+    second: RR_StarterSet__C_28
+  - first:
+      213: -6436714837218817285
+    second: RR_StarterSet__C_29
+  - first:
+      213: -2384777227614746016
+    second: RR_StarterSet__C_30
+  - first:
+      213: 2965173873308358938
+    second: RR_StarterSet__C_31
+  - first:
+      213: 4805509890063654005
+    second: RR_StarterSet__C_32
+  - first:
+      213: 1813249500745287355
+    second: RR_StarterSet__C_33
+  - first:
+      213: 2137516958309483565
+    second: RR_StarterSet__C_34
+  - first:
+      213: -6373305737770418368
+    second: RR_StarterSet__C_35
+  - first:
+      213: -839739159871268908
+    second: RR_StarterSet__C_36
+  - first:
+      213: -975658771654221439
+    second: RR_StarterSet__C_37
+  - first:
+      213: -464169994886106860
+    second: RR_StarterSet__C_38
+  - first:
+      213: 1925033347402774020
+    second: RR_StarterSet__C_39
+  - first:
+      213: 2584770135153064090
+    second: RR_StarterSet__C_40
+  - first:
+      213: 751910032752560295
+    second: RR_StarterSet__C_41
+  - first:
+      213: -7799118531662795054
+    second: RR_StarterSet__C_42
+  - first:
+      213: 3372397801316722450
+    second: RR_StarterSet__C_43
+  - first:
+      213: -1348973544349785347
+    second: RR_StarterSet__C_44
+  - first:
+      213: -8021571367640503713
+    second: RR_StarterSet__C_45
+  - first:
+      213: 8873348289817267074
+    second: RR_StarterSet__C_46
+  - first:
+      213: -5907883618435494614
+    second: RR_StarterSet__C_47
+  - first:
+      213: -6907578556271037248
+    second: RR_StarterSet__C_48
+  - first:
+      213: -214447125166609891
+    second: RR_StarterSet__C_49
+  - first:
+      213: -6794418054383053433
+    second: RR_StarterSet__C_50
+  - first:
+      213: 2259951627001218292
+    second: RR_StarterSet__C_51
+  - first:
+      213: 1147976270451126780
+    second: RR_StarterSet__C_52
+  - first:
+      213: -7608065327031994668
+    second: RR_StarterSet__C_53
+  - first:
+      213: 5377998062516795581
+    second: RR_StarterSet__C_54
+  - first:
+      213: 710646130566248919
+    second: RR_StarterSet__C_55
+  - first:
+      213: 3893982887726263276
+    second: RR_StarterSet__C_56
+  - first:
+      213: 5136459116177511359
+    second: RR_StarterSet__C_57
+  - first:
+      213: 2634284621762434550
+    second: RR_StarterSet__C_58
+  - first:
+      213: 5932154979052449612
+    second: RR_StarterSet__C_59
+  - first:
+      213: -3351358222934881054
+    second: RR_StarterSet__C_60
+  - first:
+      213: 646705688795187059
+    second: RR_StarterSet__C_61
+  - first:
+      213: -1673725980896196483
+    second: RR_StarterSet__C_62
+  - first:
+      213: 7961959312495424859
+    second: RR_StarterSet__C_63
+  - first:
+      213: -6456542076694694810
+    second: RR_StarterSet__C_64
+  - first:
+      213: 4876910109725646435
+    second: RR_StarterSet__C_65
+  - first:
+      213: -2470264002354977539
+    second: RR_StarterSet__C_66
+  - first:
+      213: -4120361923713138551
+    second: RR_StarterSet__C_67
+  - first:
+      213: 3091228764108662349
+    second: RR_StarterSet__C_68
+  - first:
+      213: 3028018253793162553
+    second: RR_StarterSet__C_69
+  - first:
+      213: 805458661077570734
+    second: RR_StarterSet__C_70
+  - first:
+      213: -546017949161678027
+    second: RR_StarterSet__C_71
+  - first:
+      213: 5350999533818002377
+    second: RR_StarterSet__C_72
+  - first:
+      213: -1874067707229228461
+    second: RR_StarterSet__C_73
+  - first:
+      213: 8487549779499824008
+    second: RR_StarterSet__C_74
+  - first:
+      213: 5578496289705087349
+    second: RR_StarterSet__C_75
+  - first:
+      213: 5970254986664783816
+    second: RR_StarterSet__C_76
+  - first:
+      213: 5529951907176350934
+    second: RR_StarterSet__C_77
+  - first:
+      213: -8412379999953538140
+    second: RR_StarterSet__C_78
+  - first:
+      213: -5742199504295389308
+    second: RR_StarterSet__C_79
+  - first:
+      213: -399238295027634792
+    second: RR_StarterSet__C_80
+  - first:
+      213: -1979840865898064029
+    second: RR_StarterSet__C_81
+  - first:
+      213: 5469388477352775057
+    second: RR_StarterSet__C_82
+  - first:
+      213: -2755017975656959282
+    second: RR_StarterSet__C_83
+  - first:
+      213: -9158477191139635373
+    second: RR_StarterSet__C_84
+  - first:
+      213: 7840576903234527149
+    second: RR_StarterSet__C_85
+  - first:
+      213: -8215925504169489218
+    second: RR_StarterSet__C_86
+  - first:
+      213: 6584094569116442152
+    second: RR_StarterSet__C_87
+  - first:
+      213: -2160183728387007824
+    second: RR_StarterSet__C_88
+  - first:
+      213: 8078633621404386318
+    second: RR_StarterSet__C_89
+  - first:
+      213: 6711888612904174733
+    second: RR_StarterSet__C_90
+  - first:
+      213: -492687246113483382
+    second: RR_StarterSet__C_91
+  - first:
+      213: -2588247970578010505
+    second: RR_StarterSet__C_92
+  - first:
+      213: 2985544626224198625
+    second: RR_StarterSet__C_93
+  - first:
+      213: 548490266365726703
+    second: RR_StarterSet__C_94
+  - first:
+      213: -5424810034611078670
+    second: RR_StarterSet__C_95
+  - first:
+      213: 7083397107497423031
+    second: RR_StarterSet__C_96
+  - first:
+      213: 2481921816259185777
+    second: RR_StarterSet__C_97
+  - first:
+      213: -7666970019167301574
+    second: RR_StarterSet__C_98
+  - first:
+      213: 4852867067611278731
+    second: RR_StarterSet__C_99
+  - first:
+      213: 8403807404776640455
+    second: RR_StarterSet__C_100
+  - first:
+      213: -7387086155719666146
+    second: RR_StarterSet__C_101
+  - first:
+      213: 3085416279949885596
+    second: RR_StarterSet__C_102
+  - first:
+      213: -794820446275986750
+    second: RR_StarterSet__C_103
+  - first:
+      213: -911613160751835995
+    second: RR_StarterSet__C_104
+  - first:
+      213: -2006674852442675064
+    second: RR_StarterSet__C_105
+  - first:
+      213: -6595323077328991534
+    second: RR_StarterSet__C_106
+  - first:
+      213: -2411907476316739771
+    second: RR_StarterSet__C_107
+  - first:
+      213: 6234659130849101133
+    second: RR_StarterSet__C_108
+  - first:
+      213: -523847739694218558
+    second: RR_StarterSet__C_109
+  - first:
+      213: -6942763418763066435
+    second: RR_StarterSet__C_110
+  - first:
+      213: 582899964403659645
+    second: RR_StarterSet__C_111
+  - first:
+      213: -7595607426904597597
+    second: RR_StarterSet__C_112
+  - first:
+      213: -2920218211012653024
+    second: RR_StarterSet__C_113
+  - first:
+      213: -6406969207228629596
+    second: RR_StarterSet__C_114
+  - first:
+      213: -3973664971918553364
+    second: RR_StarterSet__C_115
+  - first:
+      213: -3128680152949139537
+    second: RR_StarterSet__C_116
+  - first:
+      213: 1795066562278877373
+    second: RR_StarterSet__C_117
+  - first:
+      213: 7725936180002799296
+    second: RR_StarterSet__C_118
+  - first:
+      213: 1456830373640842976
+    second: RR_StarterSet__C_119
+  - first:
+      213: -2174704366566340486
+    second: RR_StarterSet__C_120
+  - first:
+      213: -2000872365121418146
+    second: RR_StarterSet__C_121
+  - first:
+      213: -4221942687132556643
+    second: RR_StarterSet__C_122
+  - first:
+      213: -632488970226788313
+    second: RR_StarterSet__C_123
+  - first:
+      213: 5825924176842991314
+    second: RR_StarterSet__C_124
+  - first:
+      213: 5479147609124625782
+    second: RR_StarterSet__C_125
+  - first:
+      213: 3517431955261205630
+    second: RR_StarterSet__C_126
+  - first:
+      213: -2125129751337104279
+    second: RR_StarterSet__C_127
+  - first:
+      213: -1648196825312692221
+    second: RR_StarterSet__C_128
+  - first:
+      213: 1693829574561586934
+    second: RR_StarterSet__C_129
+  - first:
+      213: -7218219713687502746
+    second: RR_StarterSet__C_130
+  - first:
+      213: 1139804612148671182
+    second: RR_StarterSet__C_131
+  - first:
+      213: -635024958474724007
+    second: RR_StarterSet__C_132
+  - first:
+      213: -2744245982194683100
+    second: RR_StarterSet__C_133
+  - first:
+      213: 6179349420964819435
+    second: RR_StarterSet__C_134
+  - first:
+      213: -2751357265644372841
+    second: RR_StarterSet__C_135
+  - first:
+      213: -1701484420547678985
+    second: RR_StarterSet__C_136
+  - first:
+      213: -5810179185184262817
+    second: RR_StarterSet__C_137
+  - first:
+      213: -1878403968768487920
+    second: RR_StarterSet__C_138
+  - first:
+      213: 2613052467573944325
+    second: RR_StarterSet__C_139
+  - first:
+      213: -988867187017487508
+    second: RR_StarterSet__C_140
+  - first:
+      213: -3003558634233556606
+    second: RR_StarterSet__C_141
+  - first:
+      213: -4345098608013156265
+    second: RR_StarterSet__C_142
+  - first:
+      213: 1053970933942352183
+    second: RR_StarterSet__C_143
+  - first:
+      213: 4195199116472133723
+    second: RR_StarterSet__C_144
+  - first:
+      213: 860799810241903110
+    second: RR_StarterSet__C_145
+  - first:
+      213: -3591099280708358008
+    second: RR_StarterSet__C_146
+  - first:
+      213: 9182144352566512672
+    second: RR_StarterSet__C_147
+  - first:
+      213: -5604060616918504897
+    second: RR_StarterSet__C_148
+  - first:
+      213: -4767651650272063304
+    second: RR_StarterSet__C_149
+  - first:
+      213: -6961151273739171482
+    second: RR_StarterSet__C_150
+  - first:
+      213: 4769711098408049195
+    second: RR_StarterSet__C_151
+  - first:
+      213: 380275805444317270
+    second: RR_StarterSet__C_152
+  - first:
+      213: -3386321651170343840
+    second: RR_StarterSet__C_153
+  - first:
+      213: -3445548653887867751
+    second: RR_StarterSet__C_154
+  - first:
+      213: -1757452316757169441
+    second: RR_StarterSet__C_155
+  - first:
+      213: -6694826926932069270
+    second: RR_StarterSet__C_156
+  - first:
+      213: 1251629035993679222
+    second: RR_StarterSet__C_157
+  - first:
+      213: -2900862801051359062
+    second: RR_StarterSet__C_158
+  - first:
+      213: 2048982421432156510
+    second: RR_StarterSet__C_159
+  - first:
+      213: -692378197696731966
+    second: RR_StarterSet__C_160
+  - first:
+      213: -4814619609503988043
+    second: RR_StarterSet__C_161
+  - first:
+      213: -183769153103983876
+    second: RR_StarterSet__C_162
+  - first:
+      213: -5933320842170446651
+    second: RR_StarterSet__C_163
+  - first:
+      213: 9024007770605670557
+    second: RR_StarterSet__C_164
+  - first:
+      213: 6866615594153197409
+    second: RR_StarterSet__C_165
+  - first:
+      213: -8519388034075257589
+    second: RR_StarterSet__C_166
+  - first:
+      213: 5784147200619133298
+    second: RR_StarterSet__C_167
+  - first:
+      213: -2490430798161921065
+    second: RR_StarterSet__C_168
+  - first:
+      213: -1907872953662812590
+    second: RR_StarterSet__C_169
+  - first:
+      213: 9138319543765489657
+    second: RR_StarterSet__C_170
+  - first:
+      213: 4939112437500071007
+    second: RR_StarterSet__C_171
+  - first:
+      213: 5306709613187596129
+    second: RR_StarterSet__C_172
+  - first:
+      213: 837428321280293487
+    second: RR_StarterSet__C_173
+  - first:
+      213: -5318972942996285477
+    second: RR_StarterSet__C_174
+  - first:
+      213: -4216652263039493325
+    second: RR_StarterSet__C_175
+  - first:
+      213: 4028767480795171555
+    second: RR_StarterSet__C_176
+  - first:
+      213: -1654749676614062966
+    second: RR_StarterSet__C_177
+  - first:
+      213: 2701055416170609703
+    second: RR_StarterSet__C_178
+  - first:
+      213: -7987398649859182714
+    second: RR_StarterSet__C_179
+  - first:
+      213: -5490325462491980845
+    second: RR_StarterSet__C_180
+  - first:
+      213: 779358244535313226
+    second: RR_StarterSet__C_181
+  - first:
+      213: -6908532231730953359
+    second: RR_StarterSet__C_182
+  - first:
+      213: 4531590586572348830
+    second: RR_StarterSet__C_183
+  - first:
+      213: -3214621661095073359
+    second: RR_StarterSet__C_184
+  - first:
+      213: -8293466048973073099
+    second: RR_StarterSet__C_185
+  - first:
+      213: 296138770710710614
+    second: RR_StarterSet__C_186
+  - first:
+      213: 1648814296446173755
+    second: RR_StarterSet__C_187
+  - first:
+      213: -5591814540110951267
+    second: RR_StarterSet__C_188
+  - first:
+      213: 2529573069521579192
+    second: RR_StarterSet__C_189
+  - first:
+      213: -2077921320917736069
+    second: RR_StarterSet__C_190
+  - first:
+      213: -7566507729447893626
+    second: RR_StarterSet__C_191
+  - first:
+      213: 498612490018078201
+    second: RR_StarterSet__C_192
+  - first:
+      213: -6761689197792037085
+    second: RR_StarterSet__C_193
+  - first:
+      213: -8756364846823439323
+    second: RR_StarterSet__C_194
+  - first:
+      213: -2121009436645594818
+    second: RR_StarterSet__C_195
+  - first:
+      213: 3802730232203508565
+    second: RR_StarterSet__C_196
+  - first:
+      213: 6162020456231224646
+    second: RR_StarterSet__C_197
+  - first:
+      213: -6560855293505997854
+    second: RR_StarterSet__C_198
+  - first:
+      213: -8828805116913472473
+    second: RR_StarterSet__C_199
+  - first:
+      213: -5543815640915306131
+    second: RR_StarterSet__C_200
+  - first:
+      213: -4535237045316280225
+    second: RR_StarterSet__C_201
+  - first:
+      213: -7601841672352944740
+    second: RR_StarterSet__C_202
+  - first:
+      213: -6182271978640208733
+    second: RR_StarterSet__C_203
+  - first:
+      213: -6443679489789877698
+    second: RR_StarterSet__C_204
+  - first:
+      213: -2511404992008405778
+    second: RR_StarterSet__C_205
+  - first:
+      213: 136992525782569893
+    second: RR_StarterSet__C_206
+  - first:
+      213: 4795874028062888722
+    second: RR_StarterSet__C_207
+  - first:
+      213: 1400909181580783533
+    second: RR_StarterSet__C_208
+  - first:
+      213: -4938207560263151285
+    second: RR_StarterSet__C_209
+  - first:
+      213: -5010554592856106392
+    second: RR_StarterSet__C_210
+  - first:
+      213: 1775920986856685667
+    second: RR_StarterSet__C_211
+  - first:
+      213: 1744185989942051034
+    second: RR_StarterSet__C_212
+  - first:
+      213: 638859525240122832
+    second: RR_StarterSet__C_213
+  - first:
+      213: 662317908121264192
+    second: RR_StarterSet__C_214
+  - first:
+      213: 2317570086589896176
+    second: RR_StarterSet__C_215
+  - first:
+      213: -4013255785390139463
+    second: RR_StarterSet__C_216
+  - first:
+      213: 4704558406565423869
+    second: RR_StarterSet__C_217
+  - first:
+      213: 9173866679828235049
+    second: RR_StarterSet__C_218
+  - first:
+      213: -6592452427311206709
+    second: RR_StarterSet__C_219
+  - first:
+      213: -6388574526338216452
+    second: RR_StarterSet__C_220
+  - first:
+      213: 3563440680544226728
+    second: RR_StarterSet__C_221
+  - first:
+      213: -1154627166118732970
+    second: RR_StarterSet__C_222
+  - first:
+      213: 1948307057641570529
+    second: RR_StarterSet__C_223
+  - first:
+      213: -3564336991044076670
+    second: RR_StarterSet__C_224
+  - first:
+      213: -8408643391376244573
+    second: RR_StarterSet__C_225
+  - first:
+      213: -6310354542349976975
+    second: RR_StarterSet__C_226
+  - first:
+      213: 7937135137823701401
+    second: RR_StarterSet__C_227
+  - first:
+      213: -4106655506409453343
+    second: RR_StarterSet__C_228
+  - first:
+      213: 7771162390055619541
+    second: RR_StarterSet__C_229
+  - first:
+      213: 2009872193615105813
+    second: RR_StarterSet__C_230
+  - first:
+      213: 6830357205758433018
+    second: RR_StarterSet__C_231
+  - first:
+      213: 3955486840912524675
+    second: RR_StarterSet__C_232
+  - first:
+      213: 9077705058221612893
+    second: RR_StarterSet__C_233
+  - first:
+      213: 8299257010299904584
+    second: RR_StarterSet__C_234
+  - first:
+      213: 2528913695422003120
+    second: RR_StarterSet__C_235
+  - first:
+      213: -8080079043721703970
+    second: RR_StarterSet__C_236
+  - first:
+      213: -6331034686661361291
+    second: RR_StarterSet__C_237
+  - first:
+      213: 7552009662865400037
+    second: RR_StarterSet__C_238
+  - first:
+      213: -5190091115978810197
+    second: RR_StarterSet__C_239
+  - first:
+      213: 9002821253802513693
+    second: RR_StarterSet__C_240
+  - first:
+      213: -1744929944186030081
+    second: RR_StarterSet__C_241
+  - first:
+      213: -4824590187642572455
+    second: RR_StarterSet__C_242
+  - first:
+      213: 785960540499940671
+    second: RR_StarterSet__C_243
+  - first:
+      213: 4319204172403189097
+    second: RR_StarterSet__C_244
+  - first:
+      213: -8680147784218494233
+    second: RR_StarterSet__C_245
+  - first:
+      213: 5873949926509500193
+    second: RR_StarterSet__C_246
+  - first:
+      213: -194386324206239187
+    second: RR_StarterSet__C_247
+  - first:
+      213: 6984380392065509760
+    second: RR_StarterSet__C_248
+  - first:
+      213: -3204108359368545497
+    second: RR_StarterSet__C_249
+  - first:
+      213: -442323194815710675
+    second: RR_StarterSet__C_250
+  - first:
+      213: 9106966896509429676
+    second: RR_StarterSet__C_251
+  - first:
+      213: -6281440579904093838
+    second: RR_StarterSet__C_252
+  - first:
+      213: -2880176729225014528
+    second: RR_StarterSet__C_253
+  - first:
+      213: -986099857075387878
+    second: RR_StarterSet__C_254
+  - first:
+      213: 7603194650637370797
+    second: RR_StarterSet__C_255
+  - first:
+      213: 3292894120757309360
+    second: RR_StarterSet__C_256
+  - first:
+      213: 2540095659292396159
+    second: RR_StarterSet__C_257
+  - first:
+      213: 8387951215579445564
+    second: RR_StarterSet__C_258
+  - first:
+      213: 4171928419557570536
+    second: RR_StarterSet__C_259
+  - first:
+      213: 2592767286671346591
+    second: RR_StarterSet__C_260
+  - first:
+      213: 3294249772692839653
+    second: RR_StarterSet__C_261
+  - first:
+      213: -905819372739583196
+    second: RR_StarterSet__C_262
+  - first:
+      213: -8140824985587101158
+    second: RR_StarterSet__C_263
+  - first:
+      213: -870446845941068240
+    second: RR_StarterSet__C_264
+  - first:
+      213: 1400969411321561072
+    second: RR_StarterSet__C_265
+  - first:
+      213: -9139568651861147625
+    second: RR_StarterSet__C_266
+  - first:
+      213: 5397670726695191664
+    second: RR_StarterSet__C_267
+  - first:
+      213: -872679442616293079
+    second: RR_StarterSet__C_268
+  - first:
+      213: 4954259305733456488
+    second: RR_StarterSet__C_269
+  - first:
+      213: 5713771802300268312
+    second: RR_StarterSet__C_270
+  - first:
+      213: 403882360584450109
+    second: RR_StarterSet__C_271
+  - first:
+      213: -1600173781618328441
+    second: RR_StarterSet__C_272
+  - first:
+      213: 8478577643934697696
+    second: RR_StarterSet__C_273
+  - first:
+      213: 3349871288045733870
+    second: RR_StarterSet__C_274
+  - first:
+      213: -1032685466650840811
+    second: RR_StarterSet__C_275
+  - first:
+      213: -4941100099963175976
+    second: RR_StarterSet__C_276
+  - first:
+      213: -7897993953517872360
+    second: RR_StarterSet__C_277
+  - first:
+      213: 259092870118976840
+    second: RR_StarterSet__C_278
+  - first:
+      213: -4901604380517073040
+    second: RR_StarterSet__C_279
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RR_StarterSet__C_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 719
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4117bc9a8bdb26410800000000000000
+      internalID: 1468945029296517396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 755
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e83b9fb4b196c00800000000000000
+      internalID: 894276014135545453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 755
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef0fb94017a0430800000000000000
+      internalID: 3749933904349429295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 722
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97950c1be82ccd010800000000000000
+      internalID: 1215059917606508921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 743
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fb7aa88f72915a0800000000000000
+      internalID: -6550160234602053842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 755
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55467dbe13a1bd370800000000000000
+      internalID: 8348295135973827669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 743
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec95ca0125f6d59b0800000000000000
+      internalID: -5089789605601060402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 743
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68731c88f8d1b3150800000000000000
+      internalID: 5853304643009984390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 743
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef24ad8336de1fb0800000000000000
+      internalID: -4675063846255972381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 731
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e6e15e81147d10800000000000000
+      internalID: 2122340627355460598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 740
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eec8eff0c69dd150800000000000000
+      internalID: 5899036842596552422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 734
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375548ed57dee36c0800000000000000
+      internalID: -4161627915143588493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 734
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d3f36eafbcf7200800000000000000
+      internalID: 180086788583275935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 725
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc21c9e2af3b390800000000000000
+      internalID: -7803618651209020484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 722
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f946f5fbb051ae0800000000000000
+      internalID: -1579343177756401829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 722
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efec2f30814a3c0a0800000000000000
+      internalID: -6862460984130089218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 722
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd749ba8139a62c0800000000000000
+      internalID: -4437572748653068879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 722
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f4101edd11cd70800000000000000
+      internalID: 9061556764835902372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 692
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c889144e462521c0800000000000000
+      internalID: -4529171732659337016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 674
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c2d646165b90e0800000000000000
+      internalID: -2262119734146054800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 704
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dbd6c12029b75f0800000000000000
+      internalID: -757851574517252837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 677
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c1eed834e1b8f90800000000000000
+      internalID: -6950428324423394249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 692
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f60fa12543d380800000000000000
+      internalID: -8947732023682338222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 698
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d14897389b58d40800000000000000
+      internalID: 5586074887153524003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 671
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2682966df8caf7c0800000000000000
+      internalID: -4036693125311068626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 671
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a0e9a2e3f6c2070800000000000000
+      internalID: 8082957744016853504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 671
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa449d501d202be0800000000000000
+      internalID: -1504152727229019405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 698
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c594e7ed335fffaf0800000000000000
+      internalID: -360299842041394852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 698
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc581c32baf42c70800000000000000
+      internalID: 8945550403283999953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 698
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa061f65f13ca6a0800000000000000
+      internalID: -6436714837218817285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 698
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a059f1fb197eed0800000000000000
+      internalID: -2384777227614746016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 674
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1950d77de9662920800000000000000
+      internalID: 2965173873308358938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 677
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cded9c8c990b240800000000000000
+      internalID: 4805509890063654005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 680
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6c31d50d4f92910800000000000000
+      internalID: 1813249500745287355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 677
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d240969395cf9ad10800000000000000
+      internalID: 2137516958309483565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3c3fd2387d87a0800000000000000
+      internalID: -6373305737770418368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 680
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d753e7eea5a854f0800000000000000
+      internalID: -839739159871268908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 674
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1816e853483c572f0800000000000000
+      internalID: -975658771654221439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 674
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4113b6359dfee89f0800000000000000
+      internalID: -464169994886106860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 683
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40639b451a717ba10800000000000000
+      internalID: 1925033347402774020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_40
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 674
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9836d34eb2fed320800000000000000
+      internalID: 2584770135153064090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_41
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 674
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c445e0325f6a00800000000000000
+      internalID: 751910032752560295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_42
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 683
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea2175407f3c390800000000000000
+      internalID: -7799118531662795054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_43
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 674
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217aaccbee92dce20800000000000000
+      internalID: 3372397801316722450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_44
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 674
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2a1a565bb774de0800000000000000
+      internalID: -1348973544349785347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae75b5757ada090800000000000000
+      internalID: -8021571367640503713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bc0eea147742b70800000000000000
+      internalID: 8873348289817267074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d8dcc762bf20ea0800000000000000
+      internalID: -5907883618435494614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 623
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4fb57a6e95320a0800000000000000
+      internalID: -6907578556271037248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 623
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a2751d971260df0800000000000000
+      internalID: -214447125166609891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 623
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7855ff427c065b1a0800000000000000
+      internalID: -6794418054383053433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 623
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f449f0f706fc5f10800000000000000
+      internalID: 2259951627001218292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 623
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf131d2f55e6eef00800000000000000
+      internalID: 1147976270451126780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 626
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6ba42f4e8ba6690800000000000000
+      internalID: -7608065327031994668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 623
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87d077ebc72aa40800000000000000
+      internalID: 5377998062516795581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 653
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9386df3e8bcd900800000000000000
+      internalID: 710646130566248919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_56
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 650
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebaf502ec43a0630800000000000000
+      internalID: 3893982887726263276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 650
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3d31f1a5e584740800000000000000
+      internalID: 5136459116177511359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_58
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 650
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f59c6d08ebde8420800000000000000
+      internalID: 2634284621762434550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 650
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f6cf6068f335250800000000000000
+      internalID: 5932154979052449612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_60
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 653
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecc1e6d3759d71d0800000000000000
+      internalID: -3351358222934881054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_61
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 626
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778cd6c56f89f800800000000000000
+      internalID: 646705688795187059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_62
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 635
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d780751961bb5c8e0800000000000000
+      internalID: -1673725980896196483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_63
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 626
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5537697fcf8e7e60800000000000000
+      internalID: 7961959312495424859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_64
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 635
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ff318031c566a0800000000000000
+      internalID: -6456542076694694810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 641
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e55b3e7e34ea340800000000000000
+      internalID: 4876910109725646435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_66
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 626
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df462365afbd7bdd0800000000000000
+      internalID: -2470264002354977539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_67
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980880739a881d6c0800000000000000
+      internalID: -4120361923713138551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 578
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46aa24de2046ea20800000000000000
+      internalID: 3091228764108662349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 578
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357db60f8ea50a20800000000000000
+      internalID: 3028018253793162553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 578
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea45ace72609d2b00800000000000000
+      internalID: 805458661077570734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 578
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b1b3371972c68f0800000000000000
+      internalID: -546017949161678027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 581
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb086a9b1924a40800000000000000
+      internalID: 5350999533818002377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_73
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 581
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35232997959fdf5e0800000000000000
+      internalID: -1874067707229228461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_74
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 581
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88338843e85d9c570800000000000000
+      internalID: 8487549779499824008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_75
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 581
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d4b0c1dcca6d40800000000000000
+      internalID: 5578496289705087349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 581
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfa8a2574b9ad250800000000000000
+      internalID: 5970254986664783816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 581
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d48d3ce5f55ebc40800000000000000
+      internalID: 5529951907176350934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 575
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a33b23f5f8314b80800000000000000
+      internalID: -8412379999953538140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_79
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 575
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4879c0d69fb9f40b0800000000000000
+      internalID: -5742199504295389308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_80
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 575
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d252cc2ee957af0800000000000000
+      internalID: -399238295027634792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 578
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367185cd8313684e0800000000000000
+      internalID: -1979840865898064029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 578
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d0a3397db27eb40800000000000000
+      internalID: 5469388477352775057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b6237fb534c9d0800000000000000
+      internalID: -2755017975656959282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_84
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 566
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fca92b48d86e080800000000000000
+      internalID: -9158477191139635373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_85
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 566
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf1d6ff6235fcc60800000000000000
+      internalID: 7840576903234527149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 530
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc7e6a84b2bfd80800000000000000
+      internalID: -8215925504169489218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_87
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 530
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e93c760276f5b50800000000000000
+      internalID: 6584094569116442152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 560
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad9eb185c7502e0800000000000000
+      internalID: -2160183728387007824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_89
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 530
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04065ae9721d1070800000000000000
+      internalID: 8078633621404386318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_90
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 527
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d848420e12b652d50800000000000000
+      internalID: 6711888612904174733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_91
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 533
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a855a0e5f8f9929f0800000000000000
+      internalID: -492687246113483382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 548
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e62131f22b41cd0800000000000000
+      internalID: -2588247970578010505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 548
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e37b2bf409ce6920800000000000000
+      internalID: 2985544626224198625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_94
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 548
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef0d71cdf0ac9700800000000000000
+      internalID: 548490266365726703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_95
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 548
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f93801f30437b4b0800000000000000
+      internalID: -5424810034611078670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_96
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 548
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0d96bc3284d4260800000000000000
+      internalID: 7083397107497423031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_97
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 548
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ccb6afdbe817220800000000000000
+      internalID: 2481921816259185777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_98
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 548
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3096ff8363799590800000000000000
+      internalID: -7666970019167301574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_99
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 530
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d692be2e8d85340800000000000000
+      internalID: 4852867067611278731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 536
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf42823f4250a470800000000000000
+      internalID: 8403807404776640455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_101
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 530
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169f13a74ccb7990800000000000000
+      internalID: -7387086155719666146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_102
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 530
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90ce9662c991da20800000000000000
+      internalID: 3085416279949885596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 530
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca9087e30b38f4f0800000000000000
+      internalID: -794820446275986750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_104
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 530
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d0d409ac4953f0800000000000000
+      internalID: -911613160751835995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 530
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888e1708adbd624e0800000000000000
+      internalID: -2006674852442675064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 530
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da8edcca94b874a0800000000000000
+      internalID: -6595323077328991534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 530
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547280bddee278ed0800000000000000
+      internalID: -2411907476316739771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_108
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 530
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4508e56275f58650800000000000000
+      internalID: 6234659130849101133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c28227914beab8f0800000000000000
+      internalID: -523847739694218558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_110
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 506
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db30d09747956af90800000000000000
+      internalID: -6942763418763066435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_111
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 479
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d733ed5ed60e61800800000000000000
+      internalID: 582899964403659645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 506
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab580ad94bf69690800000000000000
+      internalID: -7595607426904597597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_113
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 518
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020d6f1520d4977d0800000000000000
+      internalID: -2920218211012653024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_114
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 482
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad754c937fd517a0800000000000000
+      internalID: -6406969207228629596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_115
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 482
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec16ce2c4bad8c0800000000000000
+      internalID: -3973664971918553364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_116
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 488
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7d6a33af1b494d0800000000000000
+      internalID: -3128680152949139537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_117
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 488
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db860d8178b59e810800000000000000
+      internalID: 1795066562278877373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_118
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceb76e950a083b60800000000000000
+      internalID: 7725936180002799296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_119
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 506
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeacd69183b73410800000000000000
+      internalID: 1456830373640842976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 482
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78825396e5e1d1e0800000000000000
+      internalID: -2174704366566340486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_121
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 479
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cca0c5f297b34e0800000000000000
+      internalID: -2000872365121418146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 494
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92e76fae75a865c0800000000000000
+      internalID: -4221942687132556643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_123
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 482
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289745f1a2f837f0800000000000000
+      internalID: -632488970226788313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d62619fb27d9d050800000000000000
+      internalID: 5825924176842991314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_125
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 464
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dddc188b7d90c40800000000000000
+      internalID: 5479147609124625782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 437
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ca3f62abd60d030800000000000000
+      internalID: 3517431955261205630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_127
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 431
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c00f520c50282e0800000000000000
+      internalID: -2125129751337104279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_128
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 434
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3087f4b48bd6029e0800000000000000
+      internalID: -1648196825312692221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_129
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 434
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe5bc51601b18710800000000000000
+      internalID: 1693829574561586934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_130
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 431
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6604fe60a6bb3db90800000000000000
+      internalID: -7218219713687502746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_131
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 431
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2397c714661df00800000000000000
+      internalID: 1139804612148671182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_132
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 434
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d5b9e2a20ff27f0800000000000000
+      internalID: -635024958474724007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_133
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 449
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233efe91da7ae9d0800000000000000
+      internalID: -2744245982194683100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 449
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1bf9b0f8571c550800000000000000
+      internalID: 6179349420964819435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_135
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 437
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb31be42731d9d0800000000000000
+      internalID: -2751357265644372841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_136
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 383
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce4623fec1368e0800000000000000
+      internalID: -1701484420547678985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_137
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 407
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5539b190d81e5fa0800000000000000
+      internalID: -5810179185184262817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_138
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 386
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eced8ea819ee5e0800000000000000
+      internalID: -1878403968768487920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_139
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 389
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f33def5d634420800000000000000
+      internalID: 2613052467573944325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_140
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 336
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b68cb5886d642f0800000000000000
+      internalID: -988867187017487508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_141
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 372
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2819370f5573156d0800000000000000
+      internalID: -3003558634233556606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_142
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 372
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750e45b56db13b3c0800000000000000
+      internalID: -4345098608013156265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_143
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 339
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7397831faf470ae00800000000000000
+      internalID: 1053970933942352183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_144
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 360
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58aa5b8e57583a30800000000000000
+      internalID: 4195199116472133723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_145
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 372
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3130eddc22fb00800000000000000
+      internalID: 860799810241903110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_146
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 360
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b73c0b3ad92ec0800000000000000
+      internalID: -3591099280708358008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_147
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 360
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c061bb3a78d6f70800000000000000
+      internalID: 9182144352566512672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_148
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 360
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae0dc7f806a32b0800000000000000
+      internalID: -5604060616918504897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_149
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 348
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b09abc8516e5ddb0800000000000000
+      internalID: -4767651650272063304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_150
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 357
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669c40d5cc5056f90800000000000000
+      internalID: -6961151273739171482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_151
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 351
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a99d519fa613240800000000000000
+      internalID: 4769711098408049195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_152
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 351
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6502f2c84d2074500800000000000000
+      internalID: 380275805444317270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_153
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 342
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06407c6566e5101d0800000000000000
+      internalID: -3386321651170343840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_154
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 339
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99430bc21c3fe20d0800000000000000
+      internalID: -3445548653887867751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_155
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 339
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda6006ed664c97e0800000000000000
+      internalID: -1757452316757169441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_156
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 339
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647e7371623713a0800000000000000
+      internalID: -6694826926932069270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 339
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c7f01afdae5110800000000000000
+      internalID: 1251629035993679222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_158
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 309
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa86031e6a01eb7d0800000000000000
+      internalID: -2900862801051359062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_159
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 291
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51cb7408a27f6c10800000000000000
+      internalID: 2048982421432156510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_160
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 321
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4af0492bd2466f0800000000000000
+      internalID: -692378197696731966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_161
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 294
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b682ee59f80f2db0800000000000000
+      internalID: -4814619609503988043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_162
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 309
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa009ccdee137df0800000000000000
+      internalID: -183769153103983876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_163
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 315
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc4200512c98ada0800000000000000
+      internalID: -5933320842170446651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_164
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 288
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90d0519147bb3d70800000000000000
+      internalID: 9024007770605670557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb8a2808e1b4f50800000000000000
+      internalID: 6866615594153197409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_166
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 288
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b051b3d78bd05c980800000000000000
+      internalID: -8519388034075257589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_167
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 315
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2793975bb3b654050800000000000000
+      internalID: 5784147200619133298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_168
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 315
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbbdd94266307dd0800000000000000
+      internalID: -2490430798161921065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_169
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 315
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e4a5038afd585e0800000000000000
+      internalID: -1907872953662812590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_170
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 315
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7d62a4535d1de70800000000000000
+      internalID: 9138319543765489657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_171
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 291
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cc7e6e7904b8440800000000000000
+      internalID: 4939112437500071007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 294
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f723ce64835a940800000000000000
+      internalID: 5306709613187596129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_173
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 297
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a73ce0f942f9b00800000000000000
+      internalID: 837428321280293487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_174
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 294
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7daca1a463f26b0800000000000000
+      internalID: -5318972942996285477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_175
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 297
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1f288b117b75c0800000000000000
+      internalID: -4216652263039493325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_176
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 297
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea017fadae09e730800000000000000
+      internalID: 4028767480795171555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_177
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 291
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ce935bfe52909e0800000000000000
+      internalID: -1654749676614062966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_178
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 291
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c7e7717931c7520800000000000000
+      internalID: 2701055416170609703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_179
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 300
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f65bb3f3f072190800000000000000
+      internalID: -7987398649859182714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_180
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 291
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db12e2b4127ec3b0800000000000000
+      internalID: -5490325462491980845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_181
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 291
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43ac46b136d0da00800000000000000
+      internalID: 779358244535313226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_182
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 300
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730758c986ff10a0800000000000000
+      internalID: -6908532231730953359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_183
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 291
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d162c01a173ee30800000000000000
+      internalID: 4531590586572348830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_184
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 291
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9e62b81ae5363d0800000000000000
+      internalID: -3214621661095073359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_185
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5359232b190b7ec80800000000000000
+      internalID: -8293466048973073099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_186
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 243
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ce6894a81c1400800000000000000
+      internalID: 296138770710710614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_187
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 243
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b328248edd3c1e610800000000000000
+      internalID: 1648814296446173755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_188
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c82de6d42e562b0800000000000000
+      internalID: -5591814540110951267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_189
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc6a32fd49da1320800000000000000
+      internalID: 2529573069521579192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_190
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ec73619db923e0800000000000000
+      internalID: -2077921320917736069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_191
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 240
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685c2042f4d5ef690800000000000000
+      internalID: -7566507729447893626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_192
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 240
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb91cfa6d6be600800000000000000
+      internalID: 498612490018078201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_193
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 243
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3277204ef77a922a0800000000000000
+      internalID: -6761689197792037085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_194
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 240
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5240f55a0942b7680800000000000000
+      internalID: -8756364846823439323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_195
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 270
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39ec7ba729a092e0800000000000000
+      internalID: -2121009436645594818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_196
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bf02b9ff206c430800000000000000
+      internalID: 3802730232203508565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_197
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 267
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6454a5805f4e38550800000000000000
+      internalID: 6162020456231224646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_198
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 267
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e375d71fd823f4a0800000000000000
+      internalID: -6560855293505997854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_199
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 267
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca83fe588c97580800000000000000
+      internalID: -8828805116913472473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_200
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 270
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d691df60c096013b0800000000000000
+      internalID: -5543815640915306131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_201
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 243
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f502bbd9fe99f01c0800000000000000
+      internalID: -4535237045316280225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_202
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d24a87645d08690800000000000000
+      internalID: -7601841672352944740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_203
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 243
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac8c48f368243aa0800000000000000
+      internalID: -6182271978640208733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_204
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 252
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32aa94e4a37396a0800000000000000
+      internalID: -6443679489789877698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_205
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec323c3772b52dd0800000000000000
+      internalID: -2511404992008405778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_206
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 243
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a35724f9f1b6e100800000000000000
+      internalID: 136992525782569893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_207
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213d536d40e5e8240800000000000000
+      internalID: 4795874028062888722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_208
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafa4b27a77017310800000000000000
+      internalID: 1400909181580783533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_209
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41dd5f3366f77bb0800000000000000
+      internalID: -4938207560263151285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_210
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a1c15152fe67ab0800000000000000
+      internalID: -5010554592856106392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_211
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36001c27ab655a810800000000000000
+      internalID: 1775920986856685667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_212
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 198
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad085b0bae7943810800000000000000
+      internalID: 1744185989942051034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_213
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 198
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddef477a5fadd800800000000000000
+      internalID: 638859525240122832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_214
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 198
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040a2f9d0a6013900800000000000000
+      internalID: 662317908121264192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_215
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 198
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51349f6b9a92020800000000000000
+      internalID: 2317570086589896176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_216
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 198
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b71a07502d0e48c0800000000000000
+      internalID: -4013255785390139463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_217
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 198
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfae868e1f2f94140800000000000000
+      internalID: 4704558406565423869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_218
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 192
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92344fbd32f105f70800000000000000
+      internalID: 9173866679828235049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_219
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce24771277e284a0800000000000000
+      internalID: -6592452427311206709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_220
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd408001593757a0800000000000000
+      internalID: -6388574526338216452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_221
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc3064b62e37130800000000000000
+      internalID: 3563440680544226728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_222
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 195
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b1a7bb5b0f9ffe0800000000000000
+      internalID: -1154627166118732970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_223
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0cc1442f6c90b10800000000000000
+      internalID: 1948307057641570529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_224
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b780d246ee88ec0800000000000000
+      internalID: -3564336991044076670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_225
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0451ee26f7e4b80800000000000000
+      internalID: -8408643391376244573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_226
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 147
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17af4783afd1d68a0800000000000000
+      internalID: -6310354542349976975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_227
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 147
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999b048ea5e562e60800000000000000
+      internalID: 7937135137823701401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_228
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 177
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8009d239a3207c0800000000000000
+      internalID: -4106655506409453343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_229
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 147
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db04273507b8db60800000000000000
+      internalID: 7771162390055619541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_230
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 144
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f0d508c1084eb10800000000000000
+      internalID: 2009872193615105813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_231
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 150
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d24a90bd4ace50800000000000000
+      internalID: 6830357205758433018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_232
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 165
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b2522356b4e630800000000000000
+      internalID: 3955486840912524675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_233
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 165
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fd01b97ac7afd70800000000000000
+      internalID: 9077705058221612893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_234
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 165
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a89e8742ec2370800000000000000
+      internalID: 8299257010299904584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_235
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 165
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7bf337b91881320800000000000000
+      internalID: 2528913695422003120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_236
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 165
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddc3e97beacddf80800000000000000
+      internalID: -8080079043721703970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_237
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 165
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718fd8ee75a328a0800000000000000
+      internalID: -6331034686661361291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_238
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 165
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e86fa6c02ec860800000000000000
+      internalID: 7552009662865400037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_239
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac1c28d0a719f7b0800000000000000
+      internalID: -5190091115978810197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_240
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 153
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d155c393b3270fc70800000000000000
+      internalID: 9002821253802513693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_241
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 147
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff779d6f573c8c7e0800000000000000
+      internalID: -1744929944186030081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_242
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 147
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951babe39cc9b0db0800000000000000
+      internalID: -4824590187642572455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_243
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3519f782fa48ea00800000000000000
+      internalID: 785960540499940671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_244
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 147
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9652a788f45e0fb30800000000000000
+      internalID: 4319204172403189097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_245
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 147
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea33c3649be98780800000000000000
+      internalID: -8680147784218494233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_246
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 147
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d70e2656748150800000000000000
+      internalID: 5873949926509500193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_247
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 147
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d224e740ba66d4df0800000000000000
+      internalID: -194386324206239187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_248
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 147
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089a44536f08de060800000000000000
+      internalID: 6984380392065509760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_249
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b6af95c68b883d0800000000000000
+      internalID: -3204108359368545497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_250
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 123
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af719d56d8cd9f0800000000000000
+      internalID: -442323194815710675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_251
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7afaf3422726e70800000000000000
+      internalID: 9106966896509429676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_252
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 123
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271c715b217d3d8a0800000000000000
+      internalID: -6281440579904093838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_253
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 135
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003523c468e8708d0800000000000000
+      internalID: -2880176729225014528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_254
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 99
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1245f1976ba052f0800000000000000
+      internalID: -986099857075387878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_255
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 99
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da504655049f38960800000000000000
+      internalID: 7603194650637370797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_256
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 105
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf26be91c5b2bd20800000000000000
+      internalID: 3292894120757309360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_257
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 105
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a82ab4b8b304320800000000000000
+      internalID: 2540095659292396159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_258
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c393be5703df76470800000000000000
+      internalID: 8387951215579445564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_259
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 123
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f5143bcaa5e930800000000000000
+      internalID: 4171928419557570536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_260
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 99
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8c433c1c5bf320800000000000000
+      internalID: 2592767286671346591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_261
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 96
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec94cee6b687bd20800000000000000
+      internalID: 3294249772692839653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_262
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 111
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423a0396412ed63f0800000000000000
+      internalID: -905819372739583196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_263
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d47bbecaf50f80800000000000000
+      internalID: -8140824985587101158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_264
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ec2d7943d8be3f0800000000000000
+      internalID: -870446845941068240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_265
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 81
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff7207c14e317310800000000000000
+      internalID: 1400969411321561072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_266
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 54
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71045811cbab92180800000000000000
+      internalID: -9139568651861147625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_267
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07401378de068ea40800000000000000
+      internalID: 5397670726695191664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_268
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 51
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e11cabae93e3f0800000000000000
+      internalID: -872679442616293079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_269
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 51
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8628a6bf69011c440800000000000000
+      internalID: 4954259305733456488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_270
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f30cb6e256b4f40800000000000000
+      internalID: 5713771802300268312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_271
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 48
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30bea9fdd0ea9500800000000000000
+      internalID: 403882360584450109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_272
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 51
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cfeb77c6a0bc9e0800000000000000
+      internalID: -1600173781618328441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_273
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 66
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8cb4b1275f9a570800000000000000
+      internalID: 8478577643934697696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_274
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee70f3720322d7e20800000000000000
+      internalID: 3349871288045733870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_275
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 54
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511719b1a0a2ba1f0800000000000000
+      internalID: -1032685466650840811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_276
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db3c0e53afad6bb0800000000000000
+      internalID: -4941100099963175976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_277
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b526a3850b46290800000000000000
+      internalID: -7897993953517872360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_278
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d2747b79b789300800000000000000
+      internalID: 259092870118976840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RR_StarterSet__C_279
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff7c529c00afbb0800000000000000
+      internalID: -4901604380517073040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RR_StarterSet__C_0: 1468945029296517396
+      RR_StarterSet__C_1: 894276014135545453
+      RR_StarterSet__C_10: 5899036842596552422
+      RR_StarterSet__C_100: 8403807404776640455
+      RR_StarterSet__C_101: -7387086155719666146
+      RR_StarterSet__C_102: 3085416279949885596
+      RR_StarterSet__C_103: -794820446275986750
+      RR_StarterSet__C_104: -911613160751835995
+      RR_StarterSet__C_105: -2006674852442675064
+      RR_StarterSet__C_106: -6595323077328991534
+      RR_StarterSet__C_107: -2411907476316739771
+      RR_StarterSet__C_108: 6234659130849101133
+      RR_StarterSet__C_109: -523847739694218558
+      RR_StarterSet__C_11: -4161627915143588493
+      RR_StarterSet__C_110: -6942763418763066435
+      RR_StarterSet__C_111: 582899964403659645
+      RR_StarterSet__C_112: -7595607426904597597
+      RR_StarterSet__C_113: -2920218211012653024
+      RR_StarterSet__C_114: -6406969207228629596
+      RR_StarterSet__C_115: -3973664971918553364
+      RR_StarterSet__C_116: -3128680152949139537
+      RR_StarterSet__C_117: 1795066562278877373
+      RR_StarterSet__C_118: 7725936180002799296
+      RR_StarterSet__C_119: 1456830373640842976
+      RR_StarterSet__C_12: 180086788583275935
+      RR_StarterSet__C_120: -2174704366566340486
+      RR_StarterSet__C_121: -2000872365121418146
+      RR_StarterSet__C_122: -4221942687132556643
+      RR_StarterSet__C_123: -632488970226788313
+      RR_StarterSet__C_124: 5825924176842991314
+      RR_StarterSet__C_125: 5479147609124625782
+      RR_StarterSet__C_126: 3517431955261205630
+      RR_StarterSet__C_127: -2125129751337104279
+      RR_StarterSet__C_128: -1648196825312692221
+      RR_StarterSet__C_129: 1693829574561586934
+      RR_StarterSet__C_13: -7803618651209020484
+      RR_StarterSet__C_130: -7218219713687502746
+      RR_StarterSet__C_131: 1139804612148671182
+      RR_StarterSet__C_132: -635024958474724007
+      RR_StarterSet__C_133: -2744245982194683100
+      RR_StarterSet__C_134: 6179349420964819435
+      RR_StarterSet__C_135: -2751357265644372841
+      RR_StarterSet__C_136: -1701484420547678985
+      RR_StarterSet__C_137: -5810179185184262817
+      RR_StarterSet__C_138: -1878403968768487920
+      RR_StarterSet__C_139: 2613052467573944325
+      RR_StarterSet__C_14: -1579343177756401829
+      RR_StarterSet__C_140: -988867187017487508
+      RR_StarterSet__C_141: -3003558634233556606
+      RR_StarterSet__C_142: -4345098608013156265
+      RR_StarterSet__C_143: 1053970933942352183
+      RR_StarterSet__C_144: 4195199116472133723
+      RR_StarterSet__C_145: 860799810241903110
+      RR_StarterSet__C_146: -3591099280708358008
+      RR_StarterSet__C_147: 9182144352566512672
+      RR_StarterSet__C_148: -5604060616918504897
+      RR_StarterSet__C_149: -4767651650272063304
+      RR_StarterSet__C_15: -6862460984130089218
+      RR_StarterSet__C_150: -6961151273739171482
+      RR_StarterSet__C_151: 4769711098408049195
+      RR_StarterSet__C_152: 380275805444317270
+      RR_StarterSet__C_153: -3386321651170343840
+      RR_StarterSet__C_154: -3445548653887867751
+      RR_StarterSet__C_155: -1757452316757169441
+      RR_StarterSet__C_156: -6694826926932069270
+      RR_StarterSet__C_157: 1251629035993679222
+      RR_StarterSet__C_158: -2900862801051359062
+      RR_StarterSet__C_159: 2048982421432156510
+      RR_StarterSet__C_16: -4437572748653068879
+      RR_StarterSet__C_160: -692378197696731966
+      RR_StarterSet__C_161: -4814619609503988043
+      RR_StarterSet__C_162: -183769153103983876
+      RR_StarterSet__C_163: -5933320842170446651
+      RR_StarterSet__C_164: 9024007770605670557
+      RR_StarterSet__C_165: 6866615594153197409
+      RR_StarterSet__C_166: -8519388034075257589
+      RR_StarterSet__C_167: 5784147200619133298
+      RR_StarterSet__C_168: -2490430798161921065
+      RR_StarterSet__C_169: -1907872953662812590
+      RR_StarterSet__C_17: 9061556764835902372
+      RR_StarterSet__C_170: 9138319543765489657
+      RR_StarterSet__C_171: 4939112437500071007
+      RR_StarterSet__C_172: 5306709613187596129
+      RR_StarterSet__C_173: 837428321280293487
+      RR_StarterSet__C_174: -5318972942996285477
+      RR_StarterSet__C_175: -4216652263039493325
+      RR_StarterSet__C_176: 4028767480795171555
+      RR_StarterSet__C_177: -1654749676614062966
+      RR_StarterSet__C_178: 2701055416170609703
+      RR_StarterSet__C_179: -7987398649859182714
+      RR_StarterSet__C_18: -4529171732659337016
+      RR_StarterSet__C_180: -5490325462491980845
+      RR_StarterSet__C_181: 779358244535313226
+      RR_StarterSet__C_182: -6908532231730953359
+      RR_StarterSet__C_183: 4531590586572348830
+      RR_StarterSet__C_184: -3214621661095073359
+      RR_StarterSet__C_185: -8293466048973073099
+      RR_StarterSet__C_186: 296138770710710614
+      RR_StarterSet__C_187: 1648814296446173755
+      RR_StarterSet__C_188: -5591814540110951267
+      RR_StarterSet__C_189: 2529573069521579192
+      RR_StarterSet__C_19: -2262119734146054800
+      RR_StarterSet__C_190: -2077921320917736069
+      RR_StarterSet__C_191: -7566507729447893626
+      RR_StarterSet__C_192: 498612490018078201
+      RR_StarterSet__C_193: -6761689197792037085
+      RR_StarterSet__C_194: -8756364846823439323
+      RR_StarterSet__C_195: -2121009436645594818
+      RR_StarterSet__C_196: 3802730232203508565
+      RR_StarterSet__C_197: 6162020456231224646
+      RR_StarterSet__C_198: -6560855293505997854
+      RR_StarterSet__C_199: -8828805116913472473
+      RR_StarterSet__C_2: 3749933904349429295
+      RR_StarterSet__C_20: -757851574517252837
+      RR_StarterSet__C_200: -5543815640915306131
+      RR_StarterSet__C_201: -4535237045316280225
+      RR_StarterSet__C_202: -7601841672352944740
+      RR_StarterSet__C_203: -6182271978640208733
+      RR_StarterSet__C_204: -6443679489789877698
+      RR_StarterSet__C_205: -2511404992008405778
+      RR_StarterSet__C_206: 136992525782569893
+      RR_StarterSet__C_207: 4795874028062888722
+      RR_StarterSet__C_208: 1400909181580783533
+      RR_StarterSet__C_209: -4938207560263151285
+      RR_StarterSet__C_21: -6950428324423394249
+      RR_StarterSet__C_210: -5010554592856106392
+      RR_StarterSet__C_211: 1775920986856685667
+      RR_StarterSet__C_212: 1744185989942051034
+      RR_StarterSet__C_213: 638859525240122832
+      RR_StarterSet__C_214: 662317908121264192
+      RR_StarterSet__C_215: 2317570086589896176
+      RR_StarterSet__C_216: -4013255785390139463
+      RR_StarterSet__C_217: 4704558406565423869
+      RR_StarterSet__C_218: 9173866679828235049
+      RR_StarterSet__C_219: -6592452427311206709
+      RR_StarterSet__C_22: -8947732023682338222
+      RR_StarterSet__C_220: -6388574526338216452
+      RR_StarterSet__C_221: 3563440680544226728
+      RR_StarterSet__C_222: -1154627166118732970
+      RR_StarterSet__C_223: 1948307057641570529
+      RR_StarterSet__C_224: -3564336991044076670
+      RR_StarterSet__C_225: -8408643391376244573
+      RR_StarterSet__C_226: -6310354542349976975
+      RR_StarterSet__C_227: 7937135137823701401
+      RR_StarterSet__C_228: -4106655506409453343
+      RR_StarterSet__C_229: 7771162390055619541
+      RR_StarterSet__C_23: 5586074887153524003
+      RR_StarterSet__C_230: 2009872193615105813
+      RR_StarterSet__C_231: 6830357205758433018
+      RR_StarterSet__C_232: 3955486840912524675
+      RR_StarterSet__C_233: 9077705058221612893
+      RR_StarterSet__C_234: 8299257010299904584
+      RR_StarterSet__C_235: 2528913695422003120
+      RR_StarterSet__C_236: -8080079043721703970
+      RR_StarterSet__C_237: -6331034686661361291
+      RR_StarterSet__C_238: 7552009662865400037
+      RR_StarterSet__C_239: -5190091115978810197
+      RR_StarterSet__C_24: -4036693125311068626
+      RR_StarterSet__C_240: 9002821253802513693
+      RR_StarterSet__C_241: -1744929944186030081
+      RR_StarterSet__C_242: -4824590187642572455
+      RR_StarterSet__C_243: 785960540499940671
+      RR_StarterSet__C_244: 4319204172403189097
+      RR_StarterSet__C_245: -8680147784218494233
+      RR_StarterSet__C_246: 5873949926509500193
+      RR_StarterSet__C_247: -194386324206239187
+      RR_StarterSet__C_248: 6984380392065509760
+      RR_StarterSet__C_249: -3204108359368545497
+      RR_StarterSet__C_25: 8082957744016853504
+      RR_StarterSet__C_250: -442323194815710675
+      RR_StarterSet__C_251: 9106966896509429676
+      RR_StarterSet__C_252: -6281440579904093838
+      RR_StarterSet__C_253: -2880176729225014528
+      RR_StarterSet__C_254: -986099857075387878
+      RR_StarterSet__C_255: 7603194650637370797
+      RR_StarterSet__C_256: 3292894120757309360
+      RR_StarterSet__C_257: 2540095659292396159
+      RR_StarterSet__C_258: 8387951215579445564
+      RR_StarterSet__C_259: 4171928419557570536
+      RR_StarterSet__C_26: -1504152727229019405
+      RR_StarterSet__C_260: 2592767286671346591
+      RR_StarterSet__C_261: 3294249772692839653
+      RR_StarterSet__C_262: -905819372739583196
+      RR_StarterSet__C_263: -8140824985587101158
+      RR_StarterSet__C_264: -870446845941068240
+      RR_StarterSet__C_265: 1400969411321561072
+      RR_StarterSet__C_266: -9139568651861147625
+      RR_StarterSet__C_267: 5397670726695191664
+      RR_StarterSet__C_268: -872679442616293079
+      RR_StarterSet__C_269: 4954259305733456488
+      RR_StarterSet__C_27: -360299842041394852
+      RR_StarterSet__C_270: 5713771802300268312
+      RR_StarterSet__C_271: 403882360584450109
+      RR_StarterSet__C_272: -1600173781618328441
+      RR_StarterSet__C_273: 8478577643934697696
+      RR_StarterSet__C_274: 3349871288045733870
+      RR_StarterSet__C_275: -1032685466650840811
+      RR_StarterSet__C_276: -4941100099963175976
+      RR_StarterSet__C_277: -7897993953517872360
+      RR_StarterSet__C_278: 259092870118976840
+      RR_StarterSet__C_279: -4901604380517073040
+      RR_StarterSet__C_28: 8945550403283999953
+      RR_StarterSet__C_29: -6436714837218817285
+      RR_StarterSet__C_3: 1215059917606508921
+      RR_StarterSet__C_30: -2384777227614746016
+      RR_StarterSet__C_31: 2965173873308358938
+      RR_StarterSet__C_32: 4805509890063654005
+      RR_StarterSet__C_33: 1813249500745287355
+      RR_StarterSet__C_34: 2137516958309483565
+      RR_StarterSet__C_35: -6373305737770418368
+      RR_StarterSet__C_36: -839739159871268908
+      RR_StarterSet__C_37: -975658771654221439
+      RR_StarterSet__C_38: -464169994886106860
+      RR_StarterSet__C_39: 1925033347402774020
+      RR_StarterSet__C_4: -6550160234602053842
+      RR_StarterSet__C_40: 2584770135153064090
+      RR_StarterSet__C_41: 751910032752560295
+      RR_StarterSet__C_42: -7799118531662795054
+      RR_StarterSet__C_43: 3372397801316722450
+      RR_StarterSet__C_44: -1348973544349785347
+      RR_StarterSet__C_45: -8021571367640503713
+      RR_StarterSet__C_46: 8873348289817267074
+      RR_StarterSet__C_47: -5907883618435494614
+      RR_StarterSet__C_48: -6907578556271037248
+      RR_StarterSet__C_49: -214447125166609891
+      RR_StarterSet__C_5: 8348295135973827669
+      RR_StarterSet__C_50: -6794418054383053433
+      RR_StarterSet__C_51: 2259951627001218292
+      RR_StarterSet__C_52: 1147976270451126780
+      RR_StarterSet__C_53: -7608065327031994668
+      RR_StarterSet__C_54: 5377998062516795581
+      RR_StarterSet__C_55: 710646130566248919
+      RR_StarterSet__C_56: 3893982887726263276
+      RR_StarterSet__C_57: 5136459116177511359
+      RR_StarterSet__C_58: 2634284621762434550
+      RR_StarterSet__C_59: 5932154979052449612
+      RR_StarterSet__C_6: -5089789605601060402
+      RR_StarterSet__C_60: -3351358222934881054
+      RR_StarterSet__C_61: 646705688795187059
+      RR_StarterSet__C_62: -1673725980896196483
+      RR_StarterSet__C_63: 7961959312495424859
+      RR_StarterSet__C_64: -6456542076694694810
+      RR_StarterSet__C_65: 4876910109725646435
+      RR_StarterSet__C_66: -2470264002354977539
+      RR_StarterSet__C_67: -4120361923713138551
+      RR_StarterSet__C_68: 3091228764108662349
+      RR_StarterSet__C_69: 3028018253793162553
+      RR_StarterSet__C_7: 5853304643009984390
+      RR_StarterSet__C_70: 805458661077570734
+      RR_StarterSet__C_71: -546017949161678027
+      RR_StarterSet__C_72: 5350999533818002377
+      RR_StarterSet__C_73: -1874067707229228461
+      RR_StarterSet__C_74: 8487549779499824008
+      RR_StarterSet__C_75: 5578496289705087349
+      RR_StarterSet__C_76: 5970254986664783816
+      RR_StarterSet__C_77: 5529951907176350934
+      RR_StarterSet__C_78: -8412379999953538140
+      RR_StarterSet__C_79: -5742199504295389308
+      RR_StarterSet__C_8: -4675063846255972381
+      RR_StarterSet__C_80: -399238295027634792
+      RR_StarterSet__C_81: -1979840865898064029
+      RR_StarterSet__C_82: 5469388477352775057
+      RR_StarterSet__C_83: -2755017975656959282
+      RR_StarterSet__C_84: -9158477191139635373
+      RR_StarterSet__C_85: 7840576903234527149
+      RR_StarterSet__C_86: -8215925504169489218
+      RR_StarterSet__C_87: 6584094569116442152
+      RR_StarterSet__C_88: -2160183728387007824
+      RR_StarterSet__C_89: 8078633621404386318
+      RR_StarterSet__C_9: 2122340627355460598
+      RR_StarterSet__C_90: 6711888612904174733
+      RR_StarterSet__C_91: -492687246113483382
+      RR_StarterSet__C_92: -2588247970578010505
+      RR_StarterSet__C_93: 2985544626224198625
+      RR_StarterSet__C_94: 548490266365726703
+      RR_StarterSet__C_95: -5424810034611078670
+      RR_StarterSet__C_96: 7083397107497423031
+      RR_StarterSet__C_97: 2481921816259185777
+      RR_StarterSet__C_98: -7666970019167301574
+      RR_StarterSet__C_99: 4852867067611278731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

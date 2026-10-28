@@ -169,6 +169,14 @@ public class PlayerScript : MonoBehaviour
             }
             
         }
+
+        if (other.gameObject.CompareTag("Health"))
+        {
+            //Take damage
+            UpdateHealth(+5);
+            
+            
+        }
         
         //This checks to see if the thing you bumped into has the CoinScript script on it
         CoinScript coin = other.gameObject.GetComponent<CoinScript>();
@@ -181,6 +189,15 @@ public class PlayerScript : MonoBehaviour
             Score++;
             //And then update the game's score text
             UpdateScore();
+        }
+
+        //This checks to see if the thing you bumped into has the CoinScript script on it
+        HealthPotScript pot = other.gameObject.GetComponent<HealthPotScript>();
+        //If it does, run the code block belows
+        if (pot != null)
+        {
+            //Tell the coin that you bumped into them so they can self destruct or whatever
+            pot.GetBumped();
         }
     }
 
