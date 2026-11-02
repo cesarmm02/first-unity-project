@@ -35,15 +35,23 @@ public class PlayerScript : MonoBehaviour
     public float dashTimer = 0f;
     public float dashReset = 0f;
 
+    private SpriteRenderer spriteRenderer;
+    private Animator animator;
+
 
 
     //Start automatically gets triggered once when the objects turns on/the game starts
     void Start()
     {
+
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
+
         //During setup we call UpdateScore to make sure our score text looks correct
         UpdateScore();
         //We call UpdateHealth to make sure our health text looks corrent
         UpdateHealth(0);
+        
     }
 
     //Update is a lot like Start, but it automatically gets triggered once per frame
