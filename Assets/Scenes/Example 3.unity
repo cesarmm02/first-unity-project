@@ -1225,7 +1225,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyScript
   Countdown: 0
-  SpawnTime: 5
+  SpawnTime: 8
   SpawnedObject: {fileID: 1849279779400285333, guid: fb946d28a97bb974a85272d12a1a51be, type: 3}
   Range: {x: 8, y: 4}
 --- !u!114 &1799216000
