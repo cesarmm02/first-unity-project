@@ -37,6 +37,7 @@ public class PlayerScript : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private Animator animator;
+    private Vector2 moveInput;
 
 
 
@@ -54,10 +55,27 @@ public class PlayerScript : MonoBehaviour
         
     }
 
+    public void OnMove(InputAction.CallbackContext context)
+    {
+        moveInput = context.ReadValue<Vector2>();
+    }
+
     //Update is a lot like Start, but it automatically gets triggered once per frame
     //Most of an object's code will be called from Update--it controls things that happen in real time
     void Update()
     {
+
+        // Flip based on the current horizontal input vector
+        if (moveInput.x > 0.1f)
+        {
+            spriteRenderer.flipX = false; // Face Right
+            // Alternatively, use the Transform Scale or Rotation flip logic here if needed
+        }
+        else if (moveInput.x < -0.1f)
+        {
+            spriteRenderer.flipX = true;  // Face Left
+        }
+
         // Call scoreByTime function
         scoreByTime();
 

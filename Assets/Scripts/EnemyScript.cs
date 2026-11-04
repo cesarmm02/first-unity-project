@@ -34,7 +34,7 @@ public class EnemyScript : MonoBehaviour
                 Random.Range(-Range.y, Range.y), 0);
             
             //This line of code actually spawns the object. Ignore 'Quaternion.identity' for now
-            Instantiate(SpawnedObject, where, new Quaternion(0,0,1,.25f));
+            Instantiate(SpawnedObject, where, Quaternion.identity);
             
             //Finally, reset the Countdown timer so that the countdown starts all over again
             Countdown = SpawnTime;
